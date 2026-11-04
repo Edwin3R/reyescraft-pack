@@ -1,0 +1,13 @@
+name = "ReyesCraft 2026"
+author = "Edwin3R"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8327288f67108f66665382616c5dfcf82c217bce6e791f82d81d2ac45eab7278"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"
