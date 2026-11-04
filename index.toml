@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "REYESCRAFT-README.txt"
-hash = "a6d0a5eef916ecc13678719b201ae2ad6954fe4195a794ecce5730311eb1976e"
+hash = "8ca3b4715e27a2ad0e662bc0805a72646725a00f1230a365788722ab30f1e61a"
 
 [[files]]
 file = "mods/aether-1-21-1-1-5-10-neoforge.pw.toml"
@@ -77,6 +77,16 @@ metafile = true
 [[files]]
 file = "mods/emi-1-1-24-1-21-1-neoforge.pw.toml"
 hash = "6ea480462f4ab930e2d5a35841159a277ce9ca2df40c114d433122b43c5c333f"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "c875585a3269432ba23b379665cb287bd88517c7dbc1a22d0b5df9294f0a2ba4"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "ed1b9c3018ec4e6afbaafd1544138a4f11bc211683ecf9c5d28b42553f60e8c7"
 metafile = true
 
 [[files]]
@@ -335,5 +345,60 @@ hash = "2e698ba6c13cbcef5ee4f620dedea99cc4cebae8d4f60e049a031b0b12462f9e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/bare-bones.pw.toml"
+hash = "4e07890bec25eadb6a671528dce288e5017f427191b178cb8d6373df192c4d6e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x.pw.toml"
+hash = "e0a6012ba9dad43bbcc771bb65c9ed857cb959d1ac36b5d4924ad036b4ffb07a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "742f4b07528ec106652d911587cc261a8f1a9d9c1fb1fa378058185a5f2f9ca9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/patrix-32x.pw.toml"
+hash = "9b533e4b0f44edd1ee5ffb2540c4d2c8ce618f7433576e250bb6dd64acd23267"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "5c98064f8e8b4d6bd97cb3230f7b5a620bae73cd0a1d45a4dc28c2864972ac4b"
+metafile = true
+
+[[files]]
 file = "shaderpacks/BSL_v10.1.8.zip"
 hash = "36b0a50ff7918bf10e9422c401d93779f9d0088a26acea975b435243f96930b5"
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "1a3d3663c44dc21e227c39c42ea9b5e3c4f3b2e3b5272ed55b45da9e247a46d7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "1d892c58b3e1eede0f0380955b0e53bd6f55d5cbcefa4a6c15eae8d7924c0e26"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "1e4109987a9d4b0bab4302601e08b365b0e3d5b3a39b14b7134f8655c29a6bcc"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
+hash = "d2f698592aabded3a44078fb28c63953abb547c2768f8f49311b3f703dcef0e4"
+metafile = true
