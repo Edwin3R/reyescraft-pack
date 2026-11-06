@@ -295,8 +295,9 @@ hash = "1c2a1f121f47573e0e0fb9f68a260acc1f5f2776fdb0161f70c6d536cab8c71a"
 metafile = true
 
 [[files]]
-file = "mods/twilightforest-1.21.1-4.8.3345-universal.jar"
-hash = "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35"
+file = "mods/twilightforest.pw.toml"
+hash = "15d15c50218ace0417b14410146fe7f587fc73c1de767ae8153f106493f7970c"
+metafile = true
 
 [[files]]
 file = "mods/waystones-neoforge-1-21-1-21-1-46.pw.toml"
