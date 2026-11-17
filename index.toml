@@ -40,6 +40,11 @@ hash = "1612328e56f76337e40e2674e2f1c4e208e652ccb41d968b935e045e118eea10"
 metafile = true
 
 [[files]]
+file = "mods/buildbetter-0-10-0-1-21-1.pw.toml"
+hash = "02edc01fc3f1d7ca3f53146f47489fff911bb53825fa9a0403cb46133efe2fe7"
+metafile = true
+
+[[files]]
 file = "mods/carryon-neoforge-1-21-1-2-2-6-13.pw.toml"
 hash = "6c80f2f2412fc3c086e8d1ecf1e00e623f24aff438b7865ba646d6564c2c4349"
 metafile = true
@@ -67,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/curios-neoforge-9-5-1-1-21-1.pw.toml"
 hash = "4fadfce72677ca1089dd3813c65b7f90590d86ce05e8f1413be9372f3b52743b"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons-3-3-3-1-21-1.pw.toml"
+hash = "7c40f5315005166a0d4463a99e056210e77515d93e4663d6bca72fdd9f037b19"
 metafile = true
 
 [[files]]
@@ -232,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-7-5-22-1-21-1-neoforge.pw.toml"
 hash = "0cadfdf65bb58fdc8bf7e498c5e48b6e53720954d694f1c1e35029007ec1107a"
+metafile = true
+
+[[files]]
+file = "mods/rosetta-0-1-1-1-21-1.pw.toml"
+hash = "1c8648bef84f522f692b6bfadbe0e033efee34ef1432904fe0c11dbdaad672ce"
 metafile = true
 
 [[files]]
