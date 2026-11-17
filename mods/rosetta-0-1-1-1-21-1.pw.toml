@@ -1,0 +1,13 @@
+name = "Rosetta 0.1.1-1.21.1"
+filename = "rosetta-0.1.1+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qn6GGcLH/versions/HVpSDt2r/rosetta-0.1.1%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "3de0e1d2e5d571a7b38b801d9cb43c676d9a29e5548e70c1e3a1242e3c5c43b8e55a778c5480b0eb68fd7da6f9c5255710cfbf03c29fcd15d340fbce9c1a72fe"
+
+[update]
+[update.modrinth]
+mod-id = "Qn6GGcLH"
+version-id = "HVpSDt2r"

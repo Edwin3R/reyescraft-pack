@@ -1,0 +1,13 @@
+name = "Build Better 0.10.0-1.21.1"
+filename = "buildbetter-0.10.0+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/36XzEYfa/versions/Mbg9MLPA/buildbetter-0.10.0%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "95164764c355ac6649407fc7ebe1bfa17a8aaf7b3272199433d6a4b169d8ef5c604bf6de95d667ccc405a209d925d9606d051ea3ad0c37c899c8e12544466cd7"
+
+[update]
+[update.modrinth]
+mod-id = "36XzEYfa"
+version-id = "Mbg9MLPA"
