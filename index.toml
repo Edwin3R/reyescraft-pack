@@ -25,6 +25,11 @@ hash = "c4a62aacb38ee99308f5432628c85b610fb615bedc8541bfd55b29a0d524ef54"
 metafile = true
 
 [[files]]
+file = "mods/backpack-side-gui-1-4-2-1-21-1.pw.toml"
+hash = "91c0c50e54caf001570563ac949fee2cb6e0b7415c07d95dba3595cbd4b5730f"
+metafile = true
+
+[[files]]
 file = "mods/balm-neoforge-1-21-1-21-0-66.pw.toml"
 hash = "2877393e57efacc7150695971ac5035634735e018beb0e0622c678687de8a7ab"
 metafile = true
