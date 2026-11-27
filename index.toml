@@ -55,6 +55,11 @@ hash = "6c80f2f2412fc3c086e8d1ecf1e00e623f24aff438b7865ba646d6564c2c4349"
 metafile = true
 
 [[files]]
+file = "mods/chunkloaders-1-2-9-neoforge-mc1-21.pw.toml"
+hash = "f67a80b4633d97343249f4c5d8d4568f9995ebbe9b1e0f7058e6c98d87cacca5"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config-15-0-140-neoforge.pw.toml"
 hash = "9d066ba8dda5207800e090f18388f37d3868721778019e213bb4e224a6d59fd7"
 metafile = true
@@ -277,6 +282,16 @@ metafile = true
 [[files]]
 file = "mods/structory-towers-26-1-v1-0-16.pw.toml"
 hash = "ea8f4c11c5bd54e4c37c60b543b1dd8f0e9c0206dc8eddef4a1ff73b4b651a55"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642configlib-1-1-8-neoforge-mc1-21.pw.toml"
+hash = "fc2725610ca80ff24747c16fc881cf2fd073eb61b360d4c6e9d482d2d26c0d08"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642corelib-1-1-26b-neoforge-mc1-21.pw.toml"
+hash = "d022bcd81232b77405af38787d8af30eb49acb914caef39aa44fe0348060f6f1"
 metafile = true
 
 [[files]]
