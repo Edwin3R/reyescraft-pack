@@ -25,6 +25,11 @@ hash = "c4a62aacb38ee99308f5432628c85b610fb615bedc8541bfd55b29a0d524ef54"
 metafile = true
 
 [[files]]
+file = "mods/architectury-13-0-12-neoforge.pw.toml"
+hash = "e67d47cb07950ff64dbc7654756b917919644c57e03caaa12dd6112bb2bde306"
+metafile = true
+
+[[files]]
 file = "mods/backpack-side-gui-1-4-2-1-21-1.pw.toml"
 hash = "91c0c50e54caf001570563ac949fee2cb6e0b7415c07d95dba3595cbd4b5730f"
 metafile = true
@@ -132,6 +137,21 @@ metafile = true
 [[files]]
 file = "mods/fragmentum-5-4-0-1-21-1-neoforge.pw.toml"
 hash = "b8175c68bbd7dc3b8f791f38662f2239e6afff1175c86fb633f953ebc087b912"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-neoforge-2101-1-24.pw.toml"
+hash = "e3c21b3fffaff753e4fab6549e95e64dc8fd8f168e969d0530c361da75a859ea"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-neoforge-2101-1-40.pw.toml"
+hash = "5c5809160b02f7ea91f265ed6723c51648986633691122225d9fec170fd23e9c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-neoforge-2101-1-12.pw.toml"
+hash = "b09efaab713068c34076be28f3a902ca8e4cc9f11b825e7847612e868377b1f3"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "ReyesCraft 2026"
 author = "Edwin3R"
-version = "1.4.3"
+version = "1.4.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "25055a53b4251f922a96fe77f84f70d152726ce90eb523233dc85ae94b379c9d"
+hash = "bc8a8c6ed267566b2664ee8f51ccf208a27dbbc57104f9dc06a39575210cdd90"
 
 [versions]
 minecraft = "1.21.1"
