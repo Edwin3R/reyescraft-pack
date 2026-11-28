@@ -1,0 +1,8 @@
+name = "FTB Chunks 2101.1.24"
+filename = "ftb-chunks-neoforge-2101.1.24.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9594/476/ftb-chunks-neoforge-2101.1.24.jar"
+hash-format = "sha512"
+hash = "32863489f1cfc3d2e34a440e35cbf304e94cefa97b3575936439324f97f17a927115595c168b0343dc1f5db105c0717091a089a6c018dc25440e76494bbee2f0"
